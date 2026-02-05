@@ -1,5 +1,7 @@
 // Initialize configuration
 const config = window.VALENTINE_CONFIG;
+config.valentineName = "Mr. Double A"; // <-- replace with your Valentine
+
 
 // Validate configuration
 function validateConfig() {
